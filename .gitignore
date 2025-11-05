@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+.venv/
+.ipynb_checkpoints
+
+# Data and models
+*.csv
+*.pkl
+*.joblib
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+*.csv
