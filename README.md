@@ -84,7 +84,7 @@ To run the training script (`sample.ipynb`):
 
 
 
-&nbsp;  ```bash
+
 
 &nbsp;  pip install -r requirements.txt
 
@@ -109,5 +109,6 @@ To run the training script (`sample.ipynb`):
 Author
 
 Macnelson – ML Engineer
+
 
 
