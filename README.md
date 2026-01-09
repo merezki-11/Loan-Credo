@@ -1,4 +1,4 @@
-🏦 Loan Credo
+**🏦 Loan Credo**
 
 
 
@@ -10,7 +10,7 @@ A machine learning–powered app that predicts loan default risk using XGBoost, 
 
 
 
-Features
+**Features**
 
 
 
@@ -24,7 +24,7 @@ Features
 
 
 
-Dataset
+**Dataset**
 
 The dataset `Loan_Default_List.csv` is **not included** in this repository because of its large size.  
 To run the training script (`sample.ipynb`):
@@ -32,7 +32,7 @@ To run the training script (`sample.ipynb`):
 2. Make sure it’s named **Loan_Default_List.csv**.
 
 
-How It Works
+**How It Works**
 
 
 
@@ -76,7 +76,7 @@ How It Works
 
 
 
-Setup and Run
+**Setup and Run**
 
 
 
@@ -108,6 +108,6 @@ Setup and Run
 
 Author
 
-Macnelson – AI/ML Engineer
-“Building smarter financial tools with machine learning.”
+Macnelson – ML Engineer
+
 
